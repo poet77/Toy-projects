@@ -1,2 +1,4 @@
 # Complexity-of-optimal-measures
-just a student toy project
+Just a student toy project
+
+Contains my final paper and slides in 2022-2023 Undergraduate Innovation and Entrepreneurship Training Program.
